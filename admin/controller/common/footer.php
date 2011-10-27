@@ -7,7 +7,7 @@ class ControllerCommonFooter extends Controller {
 		
 		$this->id       = 'footer';
 		$this->template = 'common/footer.tpl';
-	
+	echo 'aaa';
     	$this->render();
   	}
 }
