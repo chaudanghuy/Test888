@@ -1,0 +1,19 @@
+This module displays products of a specified category on the Home Page.  You can select a category in the admin and it will display its products.  You can also set the heading title in the admin.
+
+HOW TO INSTALL
+==============
+Just extract and put in to the root of your opencart installation and go to admin and enable the module, don't forget to set the Number of Products To Show or else you wouldn't not see any product. Anyone is free to modify and redistribute this module.
+
+Hope this module helps!
+
+If you found some errors, drop me a message
+If you like this module, please rate it. thanks
+
+
+Visit my websites:
+
+Eat These Code Snippets
+http://blog.blueorangetekknologee.com
+
+BlueOrange Tekknologee
+http://www.blueorangetekknologee.com
